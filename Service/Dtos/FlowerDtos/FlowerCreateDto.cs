@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using FluentValidation;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,5 +17,19 @@ namespace Service.Dtos.FlowerDtos
         public List<IFormFile> FormFiles { get; set; }
         
 
+    }
+
+
+    public class FlowerCreateDtoValidator : AbstractValidator<FlowerCreateDto>
+    {
+        public FlowerCreateDtoValidator()
+        {
+            RuleFor(x => x.Name).NotEmpty().MaximumLength(30).MinimumLength(2);
+            RuleFor(x => x.Description).NotEmpty().MaximumLength(100).MinimumLength(10);
+            RuleFor(x => x.Price).NotNull();
+            RuleFor(x => x.CategoryId).NotNull();
+            RuleFor(x => x.FormFiles).NotEmpty();
+
+        }
     }
 }

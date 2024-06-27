@@ -3,8 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\models\\flowers\\flowerupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\flowers\\flowerupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\models\\flowers\\flowercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\flowers\\flowercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\models\\flowers\\flowergetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\flowers\\flowergetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\services\\implementations\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\services\\implementations\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\exceptions\\modelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\exceptions\\modelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\exceptions\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\exceptions\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\services\\interfaces\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\services\\interfaces\\iflowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\models\\createresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\createresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\models\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|c:\\users\\asus\\desktop\\flower project\\ui\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8307733C-45B7-422D-9D37-DA234A076041}|Ui\\Ui.csproj|solutionrelative:ui\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\asus\\desktop\\flower project\\flower project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\sliderdtos\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\sliderdtos\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\flowerdtos\\flowercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\flowerdtos\\flowercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\flowerdtos\\flowereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\flowerdtos\\flowereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\flowerdtos\\getflowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\flowerdtos\\getflowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\users\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\users\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\implementations\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\implementations\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|c:\\users\\asus\\desktop\\flower project\\flower project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -23,14 +119,6 @@
       "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\users\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\users\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\implementations\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\implementations\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\implementations\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\implementations\\flowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\sliderdtos\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\sliderdtos\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|c:\\users\\asus\\desktop\\flower project\\core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,24 +155,8 @@
       "RelativeMoniker": "D:0:0:{823F7770-E62B-41C6-81D9-996EB2D45059}|Flower Project\\FlowerProject.csproj|solutionrelative:flower project\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\flowerdtos\\flowereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\flowerdtos\\flowereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\asus\\desktop\\flower project\\data\\repostitories\\implementations\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\repostitories\\implementations\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\flowerdtos\\getflowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\flowerdtos\\getflowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\dtos\\flowerdtos\\flowercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\dtos\\flowerdtos\\flowercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\asus\\desktop\\flower project\\data\\repostitories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,20 +167,12 @@
       "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\repostitories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240626170509_FlowerStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240626170509_FlowerStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|c:\\users\\asus\\desktop\\flower project\\core\\entities\\flowerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|solutionrelative:core\\entities\\flowerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|c:\\users\\asus\\desktop\\flower project\\core\\entities\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6674FAF-EE79-467B-BC22-5B6E1A21440B}|Core\\Core.csproj|solutionrelative:core\\entities\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|c:\\users\\asus\\desktop\\flower project\\service\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1C2D78-CA9C-4E1C-817D-FF80C613F853}|Service\\Service.csproj|solutionrelative:service\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\asus\\desktop\\flower project\\data\\repostitories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -233,6 +293,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\asus\\desktop\\flower project\\data\\migrations\\20240625093240_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240625093240_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|c:\\users\\asus\\desktop\\flower project\\data\\migrations\\20240626170509_flowerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF66934-CD32-4D8E-B329-DB43D4B4B104}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240626170509_flowerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -242,7 +306,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -250,33 +314,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\appsettings.json",
-              "RelativeDocumentMoniker": "Flower Project\\appsettings.json",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\appsettings.json",
-              "RelativeToolTip": "Flower Project\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-27T12:12:04.875Z",
+              "DocumentIndex": 4,
+              "Title": "FlowerGetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\Flowers\\FlowerGetRequest.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\Flowers\\FlowerGetRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\Flowers\\FlowerGetRequest.cs",
+              "RelativeToolTip": "Ui\\Models\\Flowers\\FlowerGetRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:16:25.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlowerUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\Flowers\\FlowerUpdateRequest.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\Flowers\\FlowerUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\Flowers\\FlowerUpdateRequest.cs",
+              "RelativeToolTip": "Ui\\Models\\Flowers\\FlowerUpdateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:15:45.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Flower Project\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Flower Project\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Title": "FlowerCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\Flowers\\FlowerCreateRequest.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\Flowers\\FlowerCreateRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\Flowers\\FlowerCreateRequest.cs",
+              "RelativeToolTip": "Ui\\Models\\Flowers\\FlowerCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T10:48:14.843Z",
+              "WhenOpened": "2024-06-27T20:07:44.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "Ui\\Controllers\\FlowerController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "Ui\\Controllers\\FlowerController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:56:13.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModelException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Exceptions\\ModelException.cs",
+              "RelativeDocumentMoniker": "Ui\\Exceptions\\ModelException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Exceptions\\ModelException.cs",
+              "RelativeToolTip": "Ui\\Exceptions\\ModelException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:54:27.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "Ui\\Models\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:53:41.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Ui\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Ui\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:20:18.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HttpException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Exceptions\\HttpException.cs",
+              "RelativeDocumentMoniker": "Ui\\Exceptions\\HttpException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Exceptions\\HttpException.cs",
+              "RelativeToolTip": "Ui\\Exceptions\\HttpException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:53:01.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\CreateResponse.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\CreateResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\CreateResponse.cs",
+              "RelativeToolTip": "Ui\\Models\\CreateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:49:42.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Services\\Implementations\\FlowerService.cs",
+              "RelativeDocumentMoniker": "Ui\\Services\\Implementations\\FlowerService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Services\\Implementations\\FlowerService.cs",
+              "RelativeToolTip": "Ui\\Services\\Implementations\\FlowerService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFsAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:42:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Ui\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Ui\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:24:52.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\PaginatedResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\PaginatedResponse.cs",
+              "RelativeToolTip": "Ui\\Models\\PaginatedResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:40:38.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Ui\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:42:19.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Services\\Interfaces\\IFlowerService.cs",
+              "RelativeDocumentMoniker": "Ui\\Services\\Interfaces\\IFlowerService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Services\\Interfaces\\IFlowerService.cs",
+              "RelativeToolTip": "Ui\\Services\\Interfaces\\IFlowerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:23:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Ui\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Ui\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:23:40.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Ui\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Ui\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "Ui\\Models\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:42:28.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\Users\\LoginDto.cs",
               "RelativeDocumentMoniker": "Service\\Dtos\\Users\\LoginDto.cs",
@@ -289,189 +535,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\AuthService.cs",
-              "RelativeDocumentMoniker": "Service\\Implementations\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\AuthService.cs",
-              "RelativeToolTip": "Service\\Implementations\\AuthService.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAADMAAABBAAAA",
+              "DocumentIndex": 23,
+              "Title": "FileExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Extensions\\FileExtensions.cs",
+              "RelativeDocumentMoniker": "Service\\Extensions\\FileExtensions.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Extensions\\FileExtensions.cs",
+              "RelativeToolTip": "Service\\Extensions\\FileExtensions.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T10:32:23.767Z",
+              "WhenOpened": "2024-06-25T08:54:54.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Flower Project\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Flower Project\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAACYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T22:28:53.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SliderService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\SliderService.cs",
-              "RelativeDocumentMoniker": "Service\\Implementations\\SliderService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\SliderService.cs",
-              "RelativeToolTip": "Service\\Implementations\\SliderService.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAAABAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:24:45.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ISliderService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\ISliderService.cs",
-              "RelativeDocumentMoniker": "Service\\Interfaces\\ISliderService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\ISliderService.cs",
-              "RelativeToolTip": "Service\\Interfaces\\ISliderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:24:37.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Program.cs",
-              "RelativeDocumentMoniker": "Flower Project\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Program.cs",
-              "RelativeToolTip": "Flower Project\\Program.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAwDcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T06:10:32.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Service\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "Service\\Interfaces\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T13:12:38.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SliderCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
-              "RelativeDocumentMoniker": "Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
-              "RelativeToolTip": "Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:28:09.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Profiles\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Service\\Profiles\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Profiles\\MappingProfile.cs",
-              "RelativeToolTip": "Service\\Profiles\\MappingProfile.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:27:39.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Entities\\Slider.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Slider.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Entities\\Slider.cs",
-              "RelativeToolTip": "Core\\Entities\\Slider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:57:05.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SliderGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
-              "RelativeDocumentMoniker": "Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
-              "RelativeToolTip": "Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:28:26.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FlowerService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\FlowerService.cs",
-              "RelativeDocumentMoniker": "Service\\Implementations\\FlowerService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\FlowerService.cs",
-              "RelativeToolTip": "Service\\Implementations\\FlowerService.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAAAI8AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:12:29.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IFlowerService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\IFlowerService.cs",
-              "RelativeDocumentMoniker": "Service\\Interfaces\\IFlowerService.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\IFlowerService.cs",
-              "RelativeToolTip": "Service\\Interfaces\\IFlowerService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:11:21.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PaginatedList.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\PaginatedList.cs",
-              "RelativeDocumentMoniker": "Service\\Dtos\\PaginatedList.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\PaginatedList.cs",
-              "RelativeToolTip": "Service\\Dtos\\PaginatedList.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:04:23.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FlowerController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\FlowerController.cs",
-              "RelativeDocumentMoniker": "Flower Project\\Controllers\\FlowerController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\FlowerController.cs",
-              "RelativeToolTip": "Flower Project\\Controllers\\FlowerController.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:10:10.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "GetCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\GetCategoryDto.cs",
               "RelativeDocumentMoniker": "Service\\Dtos\\GetCategoryDto.cs",
@@ -484,20 +561,241 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
+              "Title": "GetFlowerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:47:53.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "FlowerEditDto.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\FlowerDtos\\FlowerEditDto.cs",
               "RelativeDocumentMoniker": "Service\\Dtos\\FlowerDtos\\FlowerEditDto.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\FlowerDtos\\FlowerEditDto.cs",
               "RelativeToolTip": "Service\\Dtos\\FlowerDtos\\FlowerEditDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwB0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T12:08:05.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
+              "Title": "FlowerCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA6wBsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:26:51.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SliderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\SliderDtos\\SliderCreateDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:28:09.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Program.cs",
+              "RelativeDocumentMoniker": "Flower Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Program.cs",
+              "RelativeToolTip": "Flower Project\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAHYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:10:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\SliderService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\SliderService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\SliderService.cs",
+              "RelativeToolTip": "Service\\Implementations\\SliderService.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:24:45.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:12:38.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\ISliderService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\ISliderService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:24:37.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Flower Project\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Flower Project\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:28:53.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Service\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:32:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Flower Project\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Flower Project\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:48:14.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Flower Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\appsettings.json",
+              "RelativeToolTip": "Flower Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T12:12:04.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Profiles\\MappingProfile.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:27:39.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Slider.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Entities\\Slider.cs",
+              "RelativeToolTip": "Core\\Entities\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:57:05.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SliderGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
+              "RelativeToolTip": "Service\\Dtos\\SliderDtos\\SliderGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:28:26.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\FlowerService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\FlowerService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\FlowerService.cs",
+              "RelativeToolTip": "Service\\Implementations\\FlowerService.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAAI8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:12:29.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IFlowerService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\IFlowerService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IFlowerService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\IFlowerService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IFlowerService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:11:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\PaginatedList.cs",
+              "RelativeToolTip": "Service\\Dtos\\PaginatedList.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:04:23.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "Flower Project\\Controllers\\FlowerController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "Flower Project\\Controllers\\FlowerController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:10:10.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "FlowerRepository.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Repostitories\\Implementations\\FlowerRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repostitories\\Implementations\\FlowerRepository.cs",
@@ -505,38 +803,11 @@
               "RelativeToolTip": "Data\\Repostitories\\Implementations\\FlowerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T11:09:03.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T11:09:03.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetFlowerDto.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
-              "RelativeDocumentMoniker": "Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
-              "RelativeToolTip": "Service\\Dtos\\FlowerDtos\\GetFlowerDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:47:53.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FlowerCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
-              "RelativeDocumentMoniker": "Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
-              "RelativeToolTip": "Service\\Dtos\\FlowerDtos\\FlowerCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T17:26:51.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Repostitories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repostitories\\Interfaces\\IRepository.cs",
@@ -544,12 +815,11 @@
               "RelativeToolTip": "Data\\Repostitories\\Interfaces\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T11:02:46.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T11:02:46.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 40,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Repostitories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "Data\\Repostitories\\Implementations\\Repository.cs",
@@ -557,12 +827,11 @@
               "RelativeToolTip": "Data\\Repostitories\\Implementations\\Repository.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAnwDAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T11:08:48.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T11:08:48.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 73,
               "Title": "20240626170509_FlowerStatus.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240626170509_FlowerStatus.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240626170509_FlowerStatus.cs",
@@ -570,12 +839,11 @@
               "RelativeToolTip": "Data\\Migrations\\20240626170509_FlowerStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAmwAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T17:05:09.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T17:05:09.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 41,
               "Title": "FlowerImage.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Entities\\FlowerImage.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\FlowerImage.cs",
@@ -583,12 +851,11 @@
               "RelativeToolTip": "Core\\Entities\\FlowerImage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:23:12.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T15:23:12.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 42,
               "Title": "Flower.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Entities\\Flower.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Flower.cs",
@@ -596,12 +863,11 @@
               "RelativeToolTip": "Core\\Entities\\Flower.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:57:18.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T08:57:18.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 43,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Repostitories\\Implementations\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repostitories\\Implementations\\CategoryRepository.cs",
@@ -613,19 +879,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FileExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Extensions\\FileExtensions.cs",
-              "RelativeDocumentMoniker": "Service\\Extensions\\FileExtensions.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Extensions\\FileExtensions.cs",
-              "RelativeToolTip": "Service\\Extensions\\FileExtensions.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAACMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:54:54.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 44,
               "Title": "FlowerStoreDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\FlowerStoreDbContext.cs",
               "RelativeDocumentMoniker": "Data\\FlowerStoreDbContext.cs",
@@ -637,7 +891,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 45,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Service\\Interfaces\\ICategoryService.cs",
@@ -649,7 +903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 46,
               "Title": "ISliderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Repostitories\\Interfaces\\ISliderRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repostitories\\Interfaces\\ISliderRepository.cs",
@@ -661,7 +915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 48,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Flower Project\\Controllers\\CategoryController.cs",
@@ -673,7 +927,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 47,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Implementations\\CategoryService.cs",
               "RelativeDocumentMoniker": "Service\\Implementations\\CategoryService.cs",
@@ -685,7 +939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 49,
               "Title": "CategoryCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\CategoryCreateDto.cs",
               "RelativeDocumentMoniker": "Service\\Dtos\\CategoryCreateDto.cs",
@@ -697,7 +951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 50,
               "Title": "CategoryEditDto.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Dtos\\CategoryEditDto.cs",
               "RelativeDocumentMoniker": "Service\\Dtos\\CategoryEditDto.cs",
@@ -709,7 +963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 51,
               "Title": "FlowerConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Configurations\\FlowerConfiguration.cs",
               "RelativeDocumentMoniker": "Data\\Configurations\\FlowerConfiguration.cs",
@@ -721,7 +975,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 53,
               "Title": "FlowerTAgConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Configurations\\FlowerTAgConfiguration.cs",
               "RelativeDocumentMoniker": "Data\\Configurations\\FlowerTAgConfiguration.cs",
@@ -733,7 +987,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 54,
               "Title": "TagConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Configurations\\TagConfiguration.cs",
               "RelativeDocumentMoniker": "Data\\Configurations\\TagConfiguration.cs",
@@ -745,7 +999,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 70,
               "Title": "20240625120447_new2.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240625120447_new2.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240625120447_new2.cs",
@@ -757,7 +1011,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 52,
               "Title": "FlowerCategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Configurations\\FlowerCategoryConfiguration.cs",
               "RelativeDocumentMoniker": "Data\\Configurations\\FlowerCategoryConfiguration.cs",
@@ -769,7 +1023,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 71,
               "Title": "20240625115417_new.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240625115417_new.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240625115417_new.cs",
@@ -781,7 +1035,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 55,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Category.cs",
@@ -793,7 +1047,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 56,
               "Title": "IFlowerRepository.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Repostitories\\Interfaces\\IFlowerRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repostitories\\Interfaces\\IFlowerRepository.cs",
@@ -805,7 +1059,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 72,
               "Title": "20240625093240_init2.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240625093240_init2.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240625093240_init2.cs",
@@ -817,7 +1071,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 57,
               "Title": "SliderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Repostitories\\Implementations\\SliderRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repostitories\\Implementations\\SliderRepository.cs",
@@ -829,7 +1083,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 58,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Repostitories\\Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repostitories\\Interfaces\\ICategoryRepository.cs",
@@ -841,7 +1095,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 59,
               "Title": "Data.csproj",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Data.csproj",
               "RelativeDocumentMoniker": "Data\\Data.csproj",
@@ -853,7 +1107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 60,
               "Title": "AuditEntity.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Entities\\AuditEntity.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\AuditEntity.cs",
@@ -865,7 +1119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 61,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\AppUser.cs",
@@ -877,7 +1131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 63,
               "Title": "FlowerStoreDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\FlowerStoreDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\FlowerStoreDbContextModelSnapshot.cs",
@@ -889,7 +1143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 62,
               "Title": "20240624130841_newinit.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240624130841_newinit.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240624130841_newinit.cs",
@@ -901,7 +1155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 64,
               "Title": "20240624130413_change.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Migrations\\20240624130413_change.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240624130413_change.cs",
@@ -912,7 +1166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 65,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Flower Project\\Properties\\launchSettings.json",
@@ -924,7 +1178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 67,
               "Title": "FlowerProject",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\FlowerProject.csproj",
               "RelativeDocumentMoniker": "Flower Project\\FlowerProject.csproj",
@@ -935,7 +1189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 68,
               "Title": "Core.csproj",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
@@ -947,7 +1201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 66,
               "Title": "FlowerProject.csproj",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\FlowerProject.csproj",
               "RelativeDocumentMoniker": "Flower Project\\FlowerProject.csproj",
@@ -959,7 +1213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 69,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Configurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "Data\\Configurations\\CategoryConfiguration.cs",
