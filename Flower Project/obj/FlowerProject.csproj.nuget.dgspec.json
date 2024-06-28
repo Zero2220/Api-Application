@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\FlowerProject.csproj": {}
+    "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\FlowerProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Core.csproj": {
+    "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\obj\\",
+        "projectPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\anarpi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anarpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,21 +78,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Data.csproj": {
+    "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\obj\\",
+        "projectPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\anarpi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anarpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,15 +104,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Core\\Core.csproj"
+              "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Core\\Core.csproj"
               }
             }
           }
@@ -160,21 +166,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\FlowerProject.csproj": {
+    "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\FlowerProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\FlowerProject.csproj",
+        "projectUniqueName": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\FlowerProject.csproj",
         "projectName": "FlowerProject",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\FlowerProject.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Flower Project\\obj\\",
+        "projectPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\FlowerProject.csproj",
+        "packagesPath": "C:\\Users\\anarpi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Flower Project\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anarpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -182,15 +192,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Service.csproj"
+              "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Service.csproj"
               }
             }
           }
@@ -266,21 +275,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Service.csproj": {
+    "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Service\\obj\\",
+        "projectPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\anarpi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anarpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -288,15 +301,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Asus\\Desktop\\Flower Project\\Data\\Data.csproj"
+              "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\anarpi\\Desktop\\Api-Application\\Data\\Data.csproj"
               }
             }
           }
@@ -345,7 +357,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

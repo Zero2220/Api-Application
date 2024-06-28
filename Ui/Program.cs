@@ -1,7 +1,13 @@
+using Ui.Services;
+using Ui.Services.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddHttpContextAccessor();
+
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<ICrudService,CrudService>();
 
 var app = builder.Build();
 

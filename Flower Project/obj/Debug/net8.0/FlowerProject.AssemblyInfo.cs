@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlowerProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bbd3625050eb56e97118589179a3d49d417ca6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce7def6ce554866c575f24bd844a13d246efbe8")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlowerProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlowerProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
